@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
+
+.App {
+  min-height: 100vh;
+  background-color: rgb(245, 219, 252);
+  background-image: url("C:/Users/Anushri Sanodia/Desktop/chat-app-realtime-main/chat-app-realtime-main/frontend/public/chat_app.jpg");
+  display: flex;
+  background-position: center;
+  background-size: cover;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(73, 67, 67, 0.281);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
